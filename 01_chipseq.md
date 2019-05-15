@@ -1,3 +1,3 @@
 <br><br>
 ___
-*[back to main page](../../README.md)*
+*[back to main page](../README.md)*
