@@ -17,4 +17,4 @@ In the above command:
 
 <br><br>
 ___
-*[back to Utils page]*(../../00_utils.md) &nbsp; &nbsp; &nbsp; &nbsp; OR &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *[back to main page]*(../../README.md) 
+*[back to Utils page](../../00_utils.md)* &nbsp; &nbsp; &nbsp; &nbsp; or &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *[back to main page](../../README.md)*
