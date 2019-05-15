@@ -1,8 +1,21 @@
-# bioinformatics_notes
+# Bioinformatics notes
 
-This page contain some references to online material for Bioinformatics data analysis.
+While analyzing various genomics data, I had faced some challenges. I have tried to document these challenges and some other interesting stuff related to Bioinformatics data analysis. The content is grouped into broader topics for efficient browsing. For now I have following broad topics which possibly will change as long as I am doing Bioinformatics analysis. 
 
-## ChIPseq data
-## RNAseq data
-## Data visualization
-## Data normalization
+## [Utils](00_utils.md)
+This page lists some useful utilities I came across.
+
+## [ChIPseq data](01_chipseq.md)
+ChIPseq data content
+
+## [RNAseq data](02_rnaseq.md)
+RNAseq data content
+
+## [Data visualization](03_data_viz.md)
+Some important links and references related to data visualization
+
+## [Data normalization](04_data_norm.md)
+References and content on data normalization
+
+
+Licence: MIT.

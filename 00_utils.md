@@ -1,0 +1,1 @@
+- [Download all the files and folder from a FTP link using wget](data/utils/01-ftp_wget_whole_dir.md)
