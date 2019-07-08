@@ -1,8 +1,6 @@
 # Easily access reference genome data from YAML config file using yq
 
-Genomics data processing involves various form of reference data. Even for a single species, reference data can be FASTA file, index prefix for aligners like BWA, Bowtie2, STAR, Hisat2 etc, BED files, GFF/GTF files and so on. Writing complete path of these files can be annoying at times and can get challenging if one works with multiple organisms.
-
-To avoid such inconvenience, a reference data can be stored in a YAML configuration file which can be easily accessed using command line utilities. [yq](https://github.com/mikefarah/yq) is one such command line YAML processor utility. 
+Genomics data processing involves various form of reference data. Even for a single species, reference data can be FASTA file, index prefix for aligners like BWA, Bowtie2, STAR, Hisat2 etc, BED files, GFF/GTF files and so on. For bioinformaticians working on multiple organisms, having a configuration file for reference data is convenient approach. [yq](https://github.com/mikefarah/yq ) is a command line YAML processor utility which allows to process YAML files. `yq read` command can be used to extract the values for variable of interest from configuration file.
 
 Below is an example YAML file for human and yeast reference data.
 ```yaml
