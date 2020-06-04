@@ -2,6 +2,9 @@
 
 While analyzing various genomics data, I had faced some challenges. I have tried to document these challenges and some other interesting stuff related to Bioinformatics data analysis. The content is grouped into broader topics for efficient browsing. For now I have following broad topics which possibly will change as long as I am doing Bioinformatics analysis. 
 
+## [HPC setup](05_hpc_setup.md)
+Data processing environment setup on HPC.
+
 ## [Utils](00_utils.md)
 This page lists some useful utilities I came across.
 - [Download all the files and folder from a FTP link using wget](data/utils/01-ftp_wget_whole_dir.md)
