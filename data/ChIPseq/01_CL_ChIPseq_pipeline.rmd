@@ -150,5 +150,5 @@ idea about overall binding pattern of the TF, chromatin immunoprecipitation qual
 &nbsp;
 &nbsp;
 
-
+*[back to ChIPseq page](../../01_chipseq.md)* &nbsp; &nbsp; &nbsp; &nbsp; or &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *[back to main page](../../README.md)*
 

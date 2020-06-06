@@ -146,3 +146,8 @@ exploration purpose. This visualization gives idea about overall binding
 pattern of the TF, chromatin immunoprecipitation quality.
 
 -----
+
+   
+
+*[back to ChIPseq page](../../01_chipseq.md)*         or          
+*[back to main page](../../README.md)*
