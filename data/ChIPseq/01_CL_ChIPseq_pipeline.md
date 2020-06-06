@@ -64,6 +64,18 @@ direction. This is useful for the genome browser visualization using
 tools like IGV or IGB. By extending reads, the peak summit gives more
 accurate TF binding position.
 
+Usually `MACS2` can estimate the `extsize` on its own by selecting
+highly enriched regions from the ChIPseq BAM file. However, fungal TF
+ChIPseq has total detected peaks in range of 1000-3000 as opposed to
+human TF ChIPseq where number of peaks can be more than 100,000. This
+small initial number of peaks in fungal ChIPseq data can cause (most of
+the times) `MACS2` to fail in estimating the fragment size and `extsize`
+parameter. Therefore, we use `extsize = 200` for our data. This is based
+on our experience with sonicator and we use same sonicator for all our
+ChIPseq sample fragmentation with exact same settings. This helps to
+have uniform processed data across batches. We use same approach while
+calling peaks using `MACS2` by using `--nomodel --extsize` arguments.
+
 ``` bash
 macs2 pileup --extsize 200 -i ChIPseq_sample1_bt2.bam -o ChIPseq_sample1_pileup.bdg
 ```
