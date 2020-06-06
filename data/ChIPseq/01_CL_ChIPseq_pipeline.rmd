@@ -1,6 +1,6 @@
 ---
 title: "Chris Lab ChIPseq data processing pipeline"
-output: html_document
+output: rmarkdown::github_document
 author: "Lakhansing Pardeshi, Chris Lab"
 ---
 

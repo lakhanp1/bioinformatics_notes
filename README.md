@@ -15,6 +15,7 @@ This page lists some useful utilities I came across.
 
 ## [ChIPseq data](01_chipseq.md)
 ChIPseq data content
+- [Fungal ChIPseq data processing steps followed at Chris Lab](data/ChIPseq/01_CL_ChIPseq_pipeline.md)
 
 ## [RNAseq data](02_rnaseq.md)
 RNAseq data content

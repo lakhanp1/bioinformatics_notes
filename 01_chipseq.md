@@ -1,4 +1,4 @@
-[Fungal ChIPseq data processing steps followed at Chris Lab](data/ChIPseq/01_CL_ChIPseq_pipeline.rmd)
+- [Fungal ChIPseq data processing steps followed at Chris Lab](data/ChIPseq/01_CL_ChIPseq_pipeline.md)
 
 <br><br>
 ___

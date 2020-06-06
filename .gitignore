@@ -1,2 +1,6 @@
 .template.md
 temp_notes.txt
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
